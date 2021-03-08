@@ -14,16 +14,8 @@
  *
  * Adafruit invests time and resources providing this open source code,
  * please support Adafruit and open-source hardware by purchasing
- * products from Adafruit!
- *
- *
- * @section author Author
- * Written by Ladyada for Adafruit Industries.
- *
- * @section license License
- * BSD license, all text here must be included in any redistribution.
- *
- */
+ 
+ 
 
 #include "Adafruit_SGP30.h"
 #include "Arduino.h"
